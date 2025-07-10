@@ -51,4 +51,4 @@ jobs:
           app-name: 'rohinidemoservice'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22D57ECF5B4640039D7F5FA692EF9B2A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D7DEC17E3B24BAF917E77E8DA4BA020 }}
